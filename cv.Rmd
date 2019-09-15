@@ -1,0 +1,141 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.55in
+
+title: "CV"
+author: Thomas J. Del Santo ONeill
+
+fontawesome: yes
+email: t.j.delsantooneill@se17.qmul.ac.uk
+twitter: TJO_Neill
+phone: "+44 (0)78 0268 2804"
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+# Education
+
+**PhD. Biological Sciences** \hfill Sept 2019 - Sept 2023   
+*Department of Organismal Biology, Queen Mary University of London*
+
+- Thesis: "Methods and policy pathways to optimize production of mixed stocks of biological resources."
+- Funded by a *BBSRC LIDo DTP iCASE* scholarship in collaboration with the *Centre for Environment, Fisheries and Aquaculture Sciences (CEFAS)*
+
+**MSc. Freshwater and Marine Ecology** -- 1^st^ Class Honours (81.2%) \hfill 2017 - 2018  
+*Department of Organismal Biology, Queen Mary University of London*
+
+- Thesis: "Assessment of management options to attain Maximum Sustainable Yield from multiple interacting stocks in           the North Sea." -- 1^st^ Class Honours (85%)
+
+**BSc. Marine Sciences** -- Upper-Second Class Honours (67%) \hfill 2012 - 2016  
+*Marine and Environmental Sciences Faculty, University of Cadiz*
+
+- Thesis: "Usage of MS-222 as a soothing anaesthetic for gilthead sea bream juveniles (*Sparus aurata*) under a               simulated stress condition of transport." -- 1^st^ Class Honours (76%)
+
+**A levels** -- Biology (A), English (A), Maths (B) \hfill 2010 - 2012  
+*IES Las Encinas, Madrid*
+
+# Experience 
+
+**Marine Conservation NGO Collaboration** \hfill Jul 2018  
+*Maio Biodiversity Foundation, Island of Maio, Cape Verde*
+
+- *Object*: support the development of the "Turtle Protection" and "Marine Conservation" programmes 
+- *Duties*: (i) nocturnal beach patrolling to decrease poaching, morphometric measurements and movement tags deployment on nesting sea turtles; (ii) cetacean, coral reef and Kentish plover surveys for predictive distribution/population-dynamics studies; and (iii) BRUVs usage as non-invasive survey technique
+
+**Lab Research Assistant Internship** \hfill Oct 2015 - Jun 2016  
+*Department of Fish Physiology & Endocrinology, University of Cadiz, Spain*
+
+- *Object*: improve aquaculture practices by mitigating the stress response of different farmed teleosts
+- *Duties*: (i) lab inventory tracking; (ii) fish/tanks mantainance; (iii) biometric sampling and blood collection by caudal puncture; and (v) quantitative determination of plasmatic metabolites
+
+**Oceanographic Campaing** \hfill Jun 2014  
+*Spanish Navy Hidrographic Institute, Bay of Cadiz, Spain*
+
+- *Object*: oceanographic data collection and hydrographic characterisation of the Bay of Cadiz
+- *Duties*: (i) manual CTD and Niskin bottles carousel deployment; (ii) bathymetric surveys; (iii) neuston and plankton sampling with bongo ring nets
+
+# Relevant Working Experience 
+
+**Team-Leader Fundraiser** \hfill Sept - Present   
+*Barnardo's Charity, Crystal Palace, London, UK*
+
+- *Outline*: Inspiring prospective donors with less than 12% attrition rate and exceeding £6,000 raised (yearly projection)
+
+**English Language Assistant** \hfill Sept 2016 - Jun 2017  
+*Bilingual School Programme, Madrid Ministry of Education and Reasearch, Spain*
+
+- *Outline*: During an academic year my roles were diverse, including administrative responsabilities, resource production and front of class teaching
+
+# Skills
+
+**Operating systems**
+
+- `UNIX`-like kernels (*e.g.* `Mac OS` and `GNU/LINUX`)
+- `Windows`
+
+**Programming Languages**
+
+- `R`, `Python`, `C++`, `Visual Basic .NET` and `MATLAB`
+
+**Scientific Report Writing**
+
+- \LaTeX\hspace{0.1cm}alongside its *`BEAMER`* class for presentations
+- *Markdown* via the `R` packages *`Rmarkdown`*/*`bookdown`* and *`blogdown`* for creating websites
+
+**GUI Software**
+
+- Ecopath with Ecosim (`EwE`), Ocean Data View (`ODV`), GraphPad Prism, ArcGIS, Inkscape, Adobe and MS Office
+
+# Publications
+
+\begin{center}\Vhrulefillsub \hspace{0.3mm}\large{\textbf{\textcolor{black}{Journal}}}\Vhrulefillsub \end{center}
+
+Jerez-Cepa, I., Fernandez-Castro, M., **Del Santo O'Neill, T. J.**, Martos-Sitcha, J. A., Martinez-Rodriguez, G., Mancera, J. M. and Ruiz-Jarabo, I. (May) 2019. Transport and recovery of gilthead seabream (*Sparus aurata* L.) sedated with clove oil and MS-222: effects on stress axis regulation and intermediary metabolism. *Frontiers in Physiology*, 10:612. DOI: [10.3389/fphys.2019.00612](https://www.frontiersin.org/article/10.3389/fphys.2019.00612).
+
+\begin{center}\Vhrulefillsub \hspace{0.3mm}\large{\textbf{\textcolor{black}{Talks}}}\Vhrulefillsub \end{center}
+
+Jerez-Cepa, I., Castro, M. F., **Del Santo O'Neill, T. J.**, Lopez, M. A., Manzano, G. G., Jarabo, I. R. and Mancera, J. M. (October) 2018. Sedation as an alternative to reduce the stress of farmed fish during transport. *1^st^ Congress of Young Marine Researchers*, Cadiz. [Book of abstracts (pp. 177-179)](https://coccosphere.es/wp-content/uploads/2018/11/Páginas-3octubre-I-Congreso-Jóvenes-Investigadores-del-MAr-2.pdf).
+
+\begin{center}\Vhrulefillsub \hspace{0.3mm}\large{\textbf{\textcolor{black}{Blog}}}\Vhrulefillsub \end{center}
+
+**Del Santo O'Neill, T. J.**, Francelle, P., Goodwin, A., Grey, J., Nash, L. and Nye, A. (December) 2017. Woodplumpton Brook restoration: baffle-ing results! [*The Wild Trout Trust Blog*](https://www.wildtrout.org/wttblog/woodplumpton-brook-restoration-baffle-ing-results).
+
+\begin{center}\Vhrulefillsub \hspace{0.3mm}\large{\textbf{\textcolor{black}{Posters}}}\Vhrulefillsub \end{center}
+
+Castro, M. F., **Del Santo O'Neill, T. J.**, Jerez-Cepa, I. and Mancera, J. M. (July) 2017. Potential use of the anaesthetic MS-222 and clove oil to mitigate the stress response during transport in gilthead sea bream (*Sparus aurata*). *11^th^ Congress of the Iberian Association for Comparative Endocrinology*, Vigo. [Link to file](https://www.researchgate.net/publication/320274234_POTENTIAL_USE_OF_THE_ANESTHETICS_MS-222_AND_CLOVE_OIL_TO_MITIGATE_THE_STRESS_RESPONSE_DURING_TRANSPORT_IN_GILTHEAD_SEABREAM_Sparus_aurata).
+
+**Del Santo O'Neill, T. J.**, Castro, M. F., Jerez-Cepa, I. and Mancera, J. M. (June) 2016. Usage of MS-222 as a soothing anaesthetic for gilthead sea bream juveniles (*Sparus aurata*) under a simulated stress condition of transport. *8^th^ Meeting for the Aquaculture in the South Atlantic Littoral*, Huelva. [Link to file](https://www.researchgate.net/publication/327830837_Empleo_del_anestesico_MS-222_en_dorada_Sparus_aurata_como_relajante_en_condiciones_de_estres_por_transporte). | **-Note:** 1^st^ prize for best poster (\EUR 300).
+
+**Del Santo O'Neill, T. J.**, Castro, M. F., Jerez-Cepa, I. and Mancera, J. M. (May) 2016. Effect of MS-222 (tricaine methanosulfonate) on the stress system of gilthead sea bream juveniles (*Sparus aurata*). *2^nd^ Scientific Symposium of the Marine and Environmental Sciences Faculty*, Cadiz. [Link to file](https://www.researchgate.net/publication/327830782_Efecto_del_anestesico_MS-222_tricaina_metanosulfonato_sobre_el_sistema_del_estres_en_juveniles_de_dorada_Sparus_aurata). | **-Note:** 1^st^ prize for best poster (\EUR 100).
+
+# Courses & Conferences Attended
+
+**Courses**
+
+- **Improving your statistical inferences** (online) \hfill Feb 2019  
+*Eindhoven University of Technology*
+- **Game Theory** (online) \hfill Mar 2018  
+*Stanford University and the University of British Columbia*
+- **Sustainable urban mobility. Planification, management and innovations** \hfill Mar 2016   
+*Vice-chancellorship of Social Responsability, Cultural Extension and Services, University of Cadiz*
+- **Aquaculture in southern Europe: basic and applied aspects** \hfill Jul 2015  
+*2^nd^ International Summer School, Cadiz Marine Research Laboratory* | **-Note:** fully-funded place
+- **PADI Open Water Diver** \hfill Aug 2012
+
+**Conferences**
+
+- **Aquaculture in the Bay of Cadiz: cultivating the future** \hfill Nov 2015
+- **15^th^ National and 1^st^ Iberian Aquaculture Congress** \hfill Oct 2015
+
+# Society Memberships
+
+- British Ecological Society \hfill Jan 2019
