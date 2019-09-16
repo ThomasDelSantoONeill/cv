@@ -9,9 +9,9 @@ title: "CV"
 author: Thomas J. Del Santo ONeill
 
 fontawesome: yes
-email: t.j.delsantooneill@se17.qmul.ac.uk
+email: delsantooneillthomas@gmail.com
 twitter: TJO_Neill
-phone: "+44 (0)78 0268 2804"
+web: tba
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -65,7 +65,7 @@ urlcolor: blue
 
 # Relevant Working Experience 
 
-**Team-Leader Fundraiser** \hfill Sept - Present   
+**Team-Leader Fundraiser** \hfill Sept 2018 - Mar 2019   
 *Barnardo's Charity, Crystal Palace, London, UK*
 
 - *Outline*: Inspiring prospective donors with less than 12% attrition rate and exceeding £6,000 raised (yearly projection)
