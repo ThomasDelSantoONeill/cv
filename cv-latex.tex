@@ -199,7 +199,7 @@ $endfor$
 %\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
 
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
-$if(fontawesome)$\usepackage{fontawesome}$endif$
+$if(fontawesome)$\usepackage{fontawesome5}$endif$
 
 % Fancyhdr, as I tend to do with these personal documents.
 \usepackage{fancyhdr,lastpage}
@@ -253,7 +253,8 @@ $endif$
 \vspace{1 mm}
 
 \hrule
-
+\definecolor{deepskyblue}{rgb}{0.0, 0.75, 1.0}
+\definecolor{orcidlogocol}{rgb}{0.65, 0.807, 0.223}
 \vspace{1 mm}
 %job title
 $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
@@ -261,13 +262,13 @@ $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
 \moveleft.5\hoffset\centerline{ 
 %twitter
-$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\color{black} $twitter$} \hspace{1 mm} $endif$  
+$if(twitter)$$if(fontawesome)${\color{deepskyblue}{\faTwitter}} \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\texttt{$twitter$}} \hspace{1 mm} $endif$  
 %phone
 %$if(phone)$$if(fontawesome)$ \faMobile \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
 %email
-$if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\color{black} $email$} \hspace{1 mm}$endif$ 
+$if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\color{black} \texttt{$email$}} \hspace{1 mm}$endif$ 
 %website
-$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} Sept 2019 $endif$}
+$if(web)$$if(fontawesome)${\color{orcidlogocol}{\faOrcid}} \hspace{1 mm}$else$\emph{Web:}$endif$ \href{https://orcid.org/$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} Jan 2024 $endif$}
 
 
 \vspace{1 mm}
